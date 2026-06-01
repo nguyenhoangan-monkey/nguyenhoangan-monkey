@@ -1,5 +1,5 @@
 # Who am I?
-I am making an open-source software suite to help small businesses getting used to Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) procedures.
+I am making an open-source software suite to help small businesses getting used to Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) procedures. I am from Hanoi, Vietnam.
 
 I added extensive imagery of Hatsune Miku since adding cartoon characters to ease understanding of complex business procedures is a norm in Asian countries. These imageries are allowed for use, since Hatsune Miku is licensed under CC BY-NC license and this software is strictly used for non-commercial purposes.
 

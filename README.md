@@ -17,14 +17,14 @@ I added extensive imagery of Hatsune Miku since adding cartoon characters to eas
   </a>
 </p>
 
-# Parser of trade documents (Python)
+## Parser of trade documents (Python)
 <p align="center">
   <a href="https://github.com/nguyenhoangan-monkey/cptpp-parser">
     <img src="https://raw.githubusercontent.com/nguyenhoangan-monkey/cptpp-parser/main/docs/assets/cover.jpg" width="750" alt="CPTPP Parser">
   </a>
 </p>
 
-# Fuzzing of Ocaml functions (AFL)
+## Fuzzing of Ocaml functions (AFL)
 <p align="center">
   <a href="https://github.com/nguyenhoangan-monkey/cptpp-fuzz">
     <img src="https://raw.githubusercontent.com/nguyenhoangan-monkey/cptpp-fuzz/main/docs/assets/cover.jpg" width="750" alt="CPTPP Fuzz">

@@ -1,16 +1,25 @@
-## Hi there 👋
+Hello, my name is Nguyễn Hoàng An. I am making an open-source software suite to help small businesses getting used to Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) procedures.
 
-<!--
-**nguyenhoangan-monkey/nguyenhoangan-monkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/nguyenhoangan-monkey/cptpp-dashboard">
+    <img src="https://raw.githubusercontent.com/nguyenhoangan-monkey/cptpp-dashboard/main/docs/assets/cover.jpg" width="750" alt="CPTPP Dashboard">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/nguyenhoangan-monkey/cptpp-calculator">
+    <img src="https://raw.githubusercontent.com/nguyenhoangan-monkey/cptpp-calculator/main/docs/assets/cover.jpg" width="750" alt="CPTPP Calculator">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/nguyenhoangan-monkey/cptpp-parser">
+    <img src="https://raw.githubusercontent.com/nguyenhoangan-monkey/cptpp-parser/main/docs/assets/cover.jpg" width="750" alt="CPTPP Parser">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nguyenhoangan-monkey/cptpp-fuzz">
+    <img src="https://raw.githubusercontent.com/nguyenhoangan-monkey/cptpp-fuzz/main/docs/assets/cover.jpg" width="750" alt="CPTPP Fuzz">
+  </a>
+</p>

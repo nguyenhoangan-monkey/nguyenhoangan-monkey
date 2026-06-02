@@ -3,6 +3,12 @@ I am making an open-source software suite to help small businesses getting used 
 
 I added extensive imagery of Hatsune Miku since adding cartoon characters to ease understanding of complex business procedures is a norm in Asian countries. These imageries are allowed for use, since Hatsune Miku is licensed under CC BY-NC license and this software is strictly used for non-commercial purposes.
 
+If I have to say, the closest thing to this is the specialized CPTPP of these softwares. Technically everything is contained in cptpp-dashboard, but I added the three other repos to make sure the maths are transparent:
+- (Thompson Reuters ONESOURCE Free Trade Agreement Management)[https://tax.thomsonreuters.com/en/onesource/global-trade-management/free-trade-agreement]
+- (SAP Global Trade Services, Preference Management)[https://www.sap.com/products/financial-management/global-trade-management.html]
+
+Vietnam is where you outsource Ocaml, fuzzing, business cybersecurity and trade compliance engine development :-)
+
 ## Business dashboard (website)
 <p align="center">
   <a href="https://github.com/nguyenhoangan-monkey/cptpp-dashboard">

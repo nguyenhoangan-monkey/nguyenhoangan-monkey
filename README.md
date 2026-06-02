@@ -7,12 +7,6 @@ If I have to say, the closest thing to this is the specialized CPTPP of these so
 - [Thompson Reuters ONESOURCE Free Trade Agreement Management](https://tax.thomsonreuters.com/en/onesource/global-trade-management/free-trade-agreement)
 - [SAP Global Trade Services, Preference Management](https://www.sap.com/products/financial-management/global-trade-management.html)
 
-
-- *"Sure, that open-source tool is fast, but it’s an unregulated security risk."*
-- *"Who is backing them if customs audits you? A cartoon character on GitHub?"*
-- *"You can't trust vital international compliance to an unvetted startup in an emerging market."*
-If you ever need to outsrouce Ocaml, fuzzing, business cybersecurity and trade compliance engine development, Vietnam is one of those countries :-)
-
 ## Business dashboard (website)
 <p align="center">
   <a href="https://github.com/nguyenhoangan-monkey/cptpp-dashboard">

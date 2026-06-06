@@ -3,7 +3,7 @@ In 2020s, I think it is important to reconsider symbolic logic and memory-safe p
 compilers and used for cybersecurity penetration testing, they are perfect to tame the chaoticness of AI generated code. If we combine LLM with well-defined logic from OCaml/Rust, naturally we will create a neurosymbolic AI that can generalize to many domains.
 
 ## OCaml and Rust should be used to benefit Vietnam.
-In Vietnam, the goal is by 2045 to achieve a developed socialist-oriented economy. For myself and for the world, I think it is important to use these technologies to benefit the people to solve perennial
+In Vietnam, the goal is by 2045 to achieve a developed economy. For myself and for the world, I think it is important to use these technologies to benefit the people to solve perennial
 problems such as:
 * Parsing business documents (.docx, .xlsx, .pdf) in a modular manner
 * Model business and law as deterministic logic with auditibility
